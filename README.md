@@ -9,7 +9,8 @@
     <img height="30" src="https://img.shields.io/badge/HTML5-758AAA?style=for-the-badge&logo=html5&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Bootstrap-758AAA?style=for-the-badge&logo=bootstrap&logoColor=white">
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Najuky&theme=oldie&no-bg=true&no-frame=true&margin-w=11&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=Najuky&theme=oldie&no-bg=true&no-frame=true&margin-w=11&column=7"></br>
+    <img src="https://komarev.com/ghpvc/?username=Najuky&color=758AAA&style=for-the-badge" alt="antisocial#0001">
 </div>
 
 <h2 align="center">Ides & Programs</h2>
@@ -27,4 +28,5 @@
     <img src="https://discord.c99.nl/widget/theme-3/989854438040686662.png" alt="antisocial#0001">
   </p>
 </a>
+
 
